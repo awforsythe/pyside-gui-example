@@ -1,0 +1,7 @@
+# Compiled python bytecode
+*.pyc
+__pycache__/*
+
+# pyinstaller generated
+build/*
+dist/*
